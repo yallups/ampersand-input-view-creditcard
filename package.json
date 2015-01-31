@@ -1,0 +1,29 @@
+{
+  "name": "ampersand-input-view-creditcard",
+  "version": "1.0.0",
+  "description": "A defaulted version of my `ampersand-input-view-masked`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yallups/ampersand-input-view-creditcard.git"
+  },
+  "keywords": [
+    "creditcard",
+    "mask",
+    "input",
+    "ampersand"
+  ],
+  "author": "Shawn <mryallups@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yallups/ampersand-input-view-creditcard/issues"
+  },
+  "homepage": "https://github.com/yallups/ampersand-input-view-creditcard",
+  "dependencies": {
+    "ampersand-input-view-masked": "git://github.com/yallups/ampersand-input-view-masked",
+    "extend": "^2.0.0"
+  }
+}
